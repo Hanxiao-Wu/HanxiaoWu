@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "<Incorporating H-κ Stacking With Monte Carlo Joint Inversion of Multiple Seismic Observables: A Case Study for the Northwestern US>"
+title: "Incorporating H-κ Stacking With Monte Carlo Joint Inversion of Multiple Seismic Observables: A Case Study for the Northwestern US"
 authors:
 - admin
 - Siyuan Sui
@@ -20,7 +20,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Geophysical Research: Solid Earth*"
-publication_short: ""
+publication_short: "JGR"
 
 abstract: |
   Accurately determining the seismic structure of the continental deep crust is crucial for understanding its geological evolution and continental dynamics in general. However, traditional tools such as surface waves often face challenges in solving the trade-offs between elastic parameters and discontinuities. In this work, we present a new approach that combines two established inversion techniques, receiver function H-κ stacking and joint inversion of surface wave dispersion and receiver function waveforms, within a Bayesian Monte Carlo (MC) framework to address these challenges. Demonstrated by synthetic tests, the new method greatly reduces trade-offs between critical parameters, such as the deep crustal Vs, Moho depth, and crustal Vp/Vs ratio. This eliminates the need for assumptions regarding crustal Vp/Vs ratios in joint inversion, leading to a more accurate outcome. Furthermore, it improves the precision of the upper mantle velocity structure by reducing its trade-off with Moho depth. Additional notes on the sources of bias in the results are also included. Application of the new approach to USArray stations in the Northwestern US reveals consistency with previous studies and identifies new features. Notably, we find elevated Vp/Vs ratios in the crystalline crust of regions such as coastal Oregon, suggesting potential mafic composition or fluid presence. Shallower Moho depth in the Basin and Range indicates reduced crustal support to the elevation. The uppermost mantle Vs, averaging 5 km below Moho, aligns well with the Pn-derived Moho temperature variations, offering the potential of using Vs as an additional constraint to Moho temperature and crustal thermal properties.
