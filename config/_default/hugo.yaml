@@ -58,8 +58,8 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-markup:
-  _merge: deep
+#markup:
+#  _merge: deep
 #related:
 #  threshold: 80
 #  includeNewer: true
