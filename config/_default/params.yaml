@@ -16,8 +16,6 @@ marketing:
     org_name: ''
     description: 'Hanxiao Wu's academic website.'
     twitter: ''
-  analytics:
-    google_analytics: ''
 
 # Contact
 email: hanxiao.wu@stonybrook.edu
