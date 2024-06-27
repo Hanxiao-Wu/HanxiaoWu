@@ -11,10 +11,10 @@ appearance:
 # SEO
 marketing:
   seo:
-    site_type: "Person"
+    site_type: Person
     local_business_type: ''
     org_name: ''
-    description: "Hanxiao Wu's academic website."
+    description: "<Hanxiao Wu's academic website.>"
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''

@@ -4,7 +4,8 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: '<i class="fas fa-home fa-lg"></i>'
+        #- name: '<i class="fa fa-home" aria-hidden="true"></i>'
+  - name: "Home"
     url: /
     weight: 1
   - name: "CV"
