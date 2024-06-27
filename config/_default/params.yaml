@@ -21,16 +21,6 @@ marketing:
     description: 'Hanxiao Wu's academic website.'
     twitter: ''
 
-# Contact
-email: hanxiao.wu@stonybrook.edu
-phone:
-address:
-  street: 255 Earth and Space Science Building
-  city: Stony Brook
-  postcode: 'NY 11794'
-  country: USA
-  country_code: US
-
 # Site header
 header:
   navbar:
