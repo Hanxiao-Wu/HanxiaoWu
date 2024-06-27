@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Seismic stduy on the properties of the Earth's inner core boundary"
-event:
-event_url:
-location: "China Earthquake Networks Center, Beijing, China"
+title: "AnisotropicRayleighwaveamplitude ratio measurement and its application in the azimuthal anisotropy study"
+event: "Annual Meeting of Chinese Geoscience Union (CGU)"
+event_url: "http://www.cugs.org.cn/"
+location: "Beijing International Convention Center, Beijing, China"
 address:
   street:
   city:
@@ -16,12 +16,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2016-06-30T09:00:00+08:00
-date_end: 2016-06-30T09:20:00+08:00
-all_day: false
+#date: 2017-10-17T13:50:00+08:00
+#date_end: 2017-10-17T14:10:00+08:00
+#all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2016-06-30T09:00:00
+publishDate: 2017-10-01T00:00:00
 
 authors: []
 tags: []
