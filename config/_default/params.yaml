@@ -13,7 +13,7 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: 'https://example.org'
+    org_name: ''
     description: 'Hanxiao Wu's academic website.'
     twitter: ''
   analytics:
