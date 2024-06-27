@@ -44,4 +44,4 @@ title: Curriculum Vitae
 
 - **Kenya**,
   install ~80 smartsolo nodes in Kenya,
-  Oct. 03–04, 2024
+  Mar-Apr, 2024
