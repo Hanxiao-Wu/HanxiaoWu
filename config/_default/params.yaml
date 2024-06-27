@@ -10,16 +10,21 @@ appearance:
 
 # SEO
 marketing:
-  verification:
-    google_analytics: ""
-    google_tag_manager: ""
-    baidu_tongji: ""
   seo:
     site_type: Person
     local_business_type: ''
     org_name: 'https://example.org'
     description: 'Hanxiao Wu's academic website.'
     twitter: ''
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+    plausible: ''
+    fathom: ''
+    pirsch: ''
+  verification:
+    google: ''
+    baidu: ''
 
 # Site header
 header:
