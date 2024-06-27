@@ -60,8 +60,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: content/project/a-novel-inversion-method/index.md
-
+#projects: content/project/a-novel-inversion-method/index.md
+projects: []
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
