@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Incorporating H-κ Stacking With Monte Carlo Joint Inversion of Multiple Seismic Observables: A Case Study for the Northwestern US"
+title: "<Incorporating H-κ Stacking With Monte Carlo Joint Inversion of Multiple Seismic Observables: A Case Study for the Northwestern US>"
 authors:
 - admin
 - Siyuan Sui
@@ -42,7 +42,7 @@ url_pdf: https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023JB027952
 url_code:
 url_dataset:
 url_poster:
-url_project: "a-novel-inversion-method"
+url_project: 
 url_slides:
 url_source:
 url_video:
