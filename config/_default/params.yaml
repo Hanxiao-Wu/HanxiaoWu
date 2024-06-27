@@ -11,13 +11,13 @@ appearance:
 # SEO
 marketing:
   verification:
-    google: ""
-    bing: ""
-    baidu: ""
+    google_analytics: ""
+    google_tag_manager: ""
+    baidu_tongji: ""
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
+    org_name: 'https://example.org'
     description: 'Hanxiao Wu's academic website.'
     twitter: ''
 
