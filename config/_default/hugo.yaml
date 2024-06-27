@@ -60,12 +60,12 @@ sitemap:
   _merge: deep
 markup:
   _merge: deep
-related:
-  threshold: 80
-  includeNewer: true
-  toLower: true
-  indices:
-    - name: tags
-     weight: 100
-    - name: categories
-     weight: 70
+#related:
+#  threshold: 80
+#  includeNewer: true
+#  toLower: true
+#  indices:
+#    - name: tags
+#     weight: 100
+#    - name: categories
+#     weight: 70
