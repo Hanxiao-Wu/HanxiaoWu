@@ -27,8 +27,7 @@ phone:
 address:
   street: 255 Earth and Space Science Building
   city: Stony Brook
-  state: NY 
-  postcode: '11794'
+  postcode: 'NY 11794'
   country: USA
   country_code: US
 
