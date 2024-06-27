@@ -19,6 +19,9 @@ main:
   - name: Publications
     url: publication/
     weight: 5
+  - name: Talks
+    url: talk/
+    weight: 6
   - name: Resources
     url: resources/
     weight: 7
