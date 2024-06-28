@@ -49,17 +49,18 @@ interests:
   - Antarctica
 
 education:
-  courses:
-  - course: Ph.D. in Geoscience
+  - area: Ph.D. in Geoscience
     institution: Stony Brook University
-    year: ''
-  - course: M.S. in Geophysics
+    date_start: 2021-09-01
+  - area: M.S. in Geophysics
     institution: University of Science and Technology of China
-    year: 2021
-  - course: B.S. in Geophysics
-    institution: University of Science and Technology of China
-    year: 2018
-
+    data_start: 2018-09-01
+    date_end: 2021-07-01
+  - area: B.S. in Geophysics
+    institution: University of Science and Technology
+of China
+    data_start: 2014-09-01
+    date_end: 2018-07-01
 ---
 
 ## About Me
