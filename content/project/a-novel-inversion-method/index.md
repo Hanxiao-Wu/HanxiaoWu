@@ -1,19 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Inner Core Boundary
+title: Novel joint inversion method
 summary: |
-  The Earth's solid inner core grows from the solidification of the liquid
-  outer core. The solidificaiton process releases latent heat and expels
-  light elements, providing driving forces for the outer core convection
-  and the geodynamo which generates the Earth's magnetic field.
-  The information of the Earth's inner core boundary (ICB) is important
-  for our understanding of the thermo-compositional state of the Earth's core.
-  We use seismic waves reflected from the Earth's ICB to study the spatial and
-  temporary changes of ICB.
+  Knowing the seismic structure of the deep crust helps us understand Earth's geological history and how continents evolve. 
+  However, traditional methods of studying the deep crust face challenges due to tradeoffs that can impact accuracies of the results. 
+  In this project, we developed a new joint inversion approach that incorporates stacking of receiver function multiple phases with multiple data sets.
+  The new approach reduces the trade-offs and improves the determination of deep crustal shear velocity, Moho, and Vp/Vs ratio.
+  Application of the new method to the northwestern US produces a more accurate model that exhibits geologically coherent structures.
 tags:
-- Earth Deep Interior
-date: 2017-07-20T00:00:00
+- Earth crust
+- Joint inversion
+date: 2024-06-27T00:00:00
 weight: 1
 math: true
 
@@ -49,13 +47,12 @@ url_video: ""
 slides: ""
 ---
 
-The Earth's solid inner core grows from the solidification of the liquid
-outer core. The solidification process releases latent heat and expels
-light elements, providing driving forces for the outer core convection
-and the geodynamo which generates the Earth's magnetic field.
-Thus, the information of the Earth's inner core boundary is
-important for our understanding of the thermo-compositional state of the Earth's core.
+Knowing the seismic structure of the deep crust helps us understand Earth's geological history and how continents evolve.
+  However, traditional methods of studying the deep crust face challenges due to tradeoffs that can impact accuracies of the results.
+  In this project, we developed a new joint inversion approach that incorporates stacking of receiver function multiple phases with multiple data sets.
+  The new approach reduces the trade-offs and improves the determination of deep crustal shear velocity, Moho, and Vp/Vs ratio.
+  Application of the new method to the northwestern US produces a more accurate model that exhibits geologically coherent structures.
 
-### Localized mushy zone at the inner core boundary
+### Synthetic Test
 
-{{< figure src="mushy-ICB.png" numbered="true" alt="Localized Mushy ICB" title="Localized mushy zone at the Earth’s inner core boundary beneath southwest Okhotsk Sea." >}}
+{{< figure src="Fig5.png" numbered="true" alt="SyntheticTest" title="Results obtained using the new method show an improvement in accuracy and a reduction in trade-offs compared to the old method." >}}
