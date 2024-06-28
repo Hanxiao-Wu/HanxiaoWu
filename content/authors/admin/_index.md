@@ -54,13 +54,22 @@ education:
     date_start: 2021-09-01
   - area: M.S. in Geophysics
     institution: University of Science and Technology of China
-    data_start: 2018-09-01
+    date_start: 2018-09-01
     date_end: 2021-07-01
   - area: B.S. in Geophysics
-    institution: University of Science and Technology
-of China
-    data_start: 2014-09-01
+    institution: University of Science and Technology of China
+    date_start: 2014-09-01
     date_end: 2018-07-01
+
+work:
+  - position: Teaching Assistant
+    company_name: ""
+Skills:
+  - name: Technical Skills
+    items:
+      - name: Python, Matlab, C++, C, Fortran
+      - description: ''
+      -icon: code-bracket
 ---
 
 ## About Me
