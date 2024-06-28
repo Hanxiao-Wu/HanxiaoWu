@@ -69,7 +69,7 @@ Skills:
     items:
       - name: Python, Matlab, C++, C, Fortran
       - description: ''
-      -icon: code-bracket
+      - icon: code-bracket
 ---
 
 ## About Me
