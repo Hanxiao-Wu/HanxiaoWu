@@ -14,7 +14,7 @@ main:
     url: news/
     weight: 3
   - name: Research
-    url: research/
+    url: project/
     weight: 4
   - name: Publications
     url: publication/
