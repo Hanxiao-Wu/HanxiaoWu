@@ -34,10 +34,10 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Research
       filters:
         folders:
-          - publication
+          - research
         featured_only: true
     design:
       view: article-grid
@@ -54,16 +54,6 @@ sections:
     design:
       view: citation
 
-  - block: collection
-    id: Research
-    content:
-      title: "Research"
-      filters:
-        folders:
-          - project
-    design:
-      view: article-grid
-      columns: 1
 
   - block: collection
     id: news
