@@ -37,7 +37,7 @@ sections:
       title: Research
       filters:
         folders:
-          - research
+          - project
         featured_only: true
     design:
       view: article-grid
