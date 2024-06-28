@@ -6,6 +6,10 @@ authors:
 - admin
 - Siyuan Sui
 - Weisen Shen
+author_notes:
+- "Stony Brook University"
+- "Stony Brook University"
+- "Stony Brook University"
 date: 2024-06-27T00:00:00
 doi: "10.1029/2023JB027952"
 
