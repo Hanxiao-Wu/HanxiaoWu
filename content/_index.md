@@ -38,7 +38,7 @@ sections:
       filters:
         folders:
           - project
-        featured_only: true
+        featured_only: false
     design:
       view: article-grid
       columns: 1
@@ -67,6 +67,8 @@ sections:
       count: 5
       # Filter on criteria
       filters:
+        folders:
+ 	  - news
         author: ""
         category: ""
         tag: ""
