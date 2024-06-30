@@ -12,7 +12,7 @@ main:
     #    weight: 2
   - name: News
     url: news/
-    weight: 3
+    weight: 8 
   - name: Research
     url: project/
     weight: 4
