@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A New Joint Inversion Method
+title: A new 3D model of Western US
 summary: |
   Knowing the seismic structure of the deep crust helps us understand Earth's geological history and how continents evolve. 
   However, traditional methods of studying the deep crust face challenges due to tradeoffs that can impact accuracies of the results. 
@@ -9,6 +9,7 @@ summary: |
   The new approach reduces the trade-offs and improves the determination of deep crustal shear velocity, Moho, and Vp/Vs ratio.
   Application of the new method to the northwestern US produces a more accurate model that exhibits geologically coherent structures.
 tags:
+- Earth crust
 - Joint inversion
 date: 2024-06-27T00:00:00
 weight: 1
