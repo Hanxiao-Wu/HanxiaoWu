@@ -50,7 +50,10 @@ Knowing the seismic structure of the deep crust helps us understand Earth's geol
   However, traditional methods of studying the deep crust face challenges due to tradeoffs that can impact accuracies of the results.
   In this project, we developed a new joint inversion approach that incorporates stacking of receiver function multiple phases with multiple data sets.
   The new approach reduces the trade-offs and improves the determination of deep crustal shear velocity, Moho, and Vp/Vs ratio.
-  Application of the new method to the northwestern US produces a more accurate model that exhibits geologically coherent structures.
+
+### Trade-off
+
+{{< figure src="Fig2.png" numbered="true" alt="SyntheticTest" title="A synthetic example of trade-off" >}}
 
 ### Synthetic Test
 
