@@ -33,7 +33,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: https://tmp.com
 url_pdf: ""
 url_slides: ""
 url_video: ""
